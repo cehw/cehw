@@ -3,7 +3,7 @@
 ## Han
 
 I am a Postdoc in CIVL
-PhD in Civil Engineering, HKUST 
+- PhD in Civil Engineering, HKUST 
 
 ### Hi there 👋
 - 🔭 I’m currently working on air temperature forecasting.
