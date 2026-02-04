@@ -4,7 +4,8 @@
 
 
 🌍 Decoding the Earth's Pulse with AI
-I am an Applied ML Researcher dedicated to Earth & Climate Science. Currently, I’m "listening" to cities. By applying Graph Neural Networks to urban sensor networks, I map the invisible thermal veins of our streets in real-time.
+
+Hi! I am an Applied ML Researcher dedicated to Earth & Climate Science. Currently, I’m "listening" to cities. By applying Graph Neural Networks to urban sensor networks, I map the invisible thermal veins of our streets in real-time.
 
 What's next? I’m looking beyond the city limits. My next frontier involves:
 
